@@ -1,4 +1,4 @@
-#import joy
+import joy 
 def trianglep():
     p1=point(x=0,y=0)
     p2=point(x=-10,y=80)
